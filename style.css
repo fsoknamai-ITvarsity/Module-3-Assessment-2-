@@ -1,0 +1,147 @@
+/*============HOME PAGE======*/
+
+#home-logo-img{
+    display: block;
+    margin: auto;
+    height: 100%;
+    padding-top: 0px;
+}
+
+.home-menu-item{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;;
+    font-size: 25px;
+    font-family: cursive;
+    font-weight: bold;
+    text-align: center;
+    border: 5px solid black;
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+    width: 80%;
+}
+
+/*============BODY======*/
+
+body{
+    font-family: cursive;
+    background-color:white;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+/*============DETAILS=========*/
+
+.recipe-details h1{
+    font-size: 20px;
+    text-align: center;
+    border: 5px solid #1a1a1a;
+    margin-left: 20;
+    padding: 20px;
+}
+
+.recipe-details h2{
+    font-size: 15px;
+    text-align: left;
+    margin: 25px;;
+    margin-left: 10px;
+}
+
+.recipe-class-info p{
+    font-size: 13px;
+    display: inline-block;
+    margin: 10px;
+    padding-left: 10px;
+}
+
+.about-menu{
+    font-size: 15px;
+    display: inline-block;
+    margin-left: 15px;
+}
+
+/*============FONT AWESOME=========*/
+
+.header i{
+    float: left;
+    padding: 17px 0px 0px 17px;
+    color:black;
+    font-size: 25px;
+}
+
+/*============FONT AWESOME FOOTER=========*/
+
+.footer i{
+    font-size: 50px;
+    color: black;
+    padding-left: 1250px;
+}
+
+/*============FONT AWESOME ODER PAGE=========*/
+
+.body-order-page{
+    margin-left: 20px;
+}
+
+h3{
+    text-align: center;
+    font-weight: 600;
+    font-family: Helvitica sans-serif;
+    
+}
+
+p{
+    padding-left: 20px;
+}
+
+#info-box-full{
+    width:100%;
+    display:block;
+    margin:auto;
+    margin-top: 12px;
+    padding:10px;
+}
+
+#info-box-full p{
+    padding-left: 20px;
+}
+
+#info-box-full a{
+    text-decoration: block;
+    color: black;
+    font-size: 20px;
+}
+
+#order-received h3{
+    font-size: 50px;
+    font-weight: 600;
+    padding-top: 0;
+    
+}
+
+#order-received p{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 400;
+}
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
